@@ -1,0 +1,4 @@
+database/psdata
+node/app/dist
+node/app/node_modules
+node/app/.env
